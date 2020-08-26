@@ -1,5 +1,7 @@
 https://facial-recognition.netlify.com/
 
+You can try with this image: https://homepages.cae.wisc.edu/~ece533/images/girl.png
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
